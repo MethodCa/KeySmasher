@@ -11,7 +11,7 @@ Small videogame developed in C++ using Blit3D[^1], a lightweight framework to wr
 Press the the keys in the keyboard to match the ones on screen before the time runs out.
 
 [^1]: Blit3D, written by Darreb Reid: https://gibgezr.wixsite.com/blit3d
-[^2]: OpenGl: https://www.opengl.org/
+[^2]: OpenGL: https://www.opengl.org/
 
 
 
