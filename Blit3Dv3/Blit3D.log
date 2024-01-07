@@ -1,0 +1,8 @@
+[2024-01-07 15:33:07][Info]	Context reports FSAA is available with 8samples
+[2024-01-07 15:33:07][Info]	Requesting FSAA with 8samples
+[2024-01-07 15:33:07][Info]	1 monitor detected.
+[2024-01-07 15:33:07][Info]	Renderer: NVIDIA GeForce RTX 4090/PCIe/SSE2
+[2024-01-07 15:33:07][Info]	OpenGL version supported: 4.6.0 NVIDIA 537.34
+[2024-01-07 15:33:07][Info]	Creating TextureManager with 31 maximum bound textures
+[2024-01-07 15:33:13][Info]	Terminated Blit3D
+[2024-01-07 15:33:13][Info]	TextureManager destroyed

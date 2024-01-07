@@ -1,0 +1,47 @@
+﻿  AngelcodeFont.cpp
+  BFont.cpp
+  Blit3D.cpp
+  ByteSwap.cpp
+  glslprogram.cpp
+  glutils.cpp
+  Logger.cpp
+  RenderBuffer.cpp
+  ShaderManager.cpp
+  Sprite.cpp
+  TextureManager.cpp
+  Letter.cpp
+C:\Users\sarue\Desktop\Professional\FinalGame_RosibelUseda\FinalGame_RosibelUseda\Blit3Dv3\Letter.cpp(132,33): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\sarue\Desktop\Professional\FinalGame_RosibelUseda\FinalGame_RosibelUseda\Blit3Dv3\Letter.cpp(133,34): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  main.cpp
+C:\Users\sarue\Desktop\Professional\FinalGame_RosibelUseda\FinalGame_RosibelUseda\Blit3Dv3\main.cpp(184,30): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+  glew.c
+  context.c
+C:\Users\sarue\Desktop\Professional\FinalGame_RosibelUseda\FinalGame_RosibelUseda\Blit3Dv3\Blit3DBaseFiles\GLFW\context.c(377,10): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  egl_context.c
+  init.c
+  input.c
+  monitor.c
+  vulkan.c
+  wgl_context.c
+  win32_init.c
+  win32_joystick.c
+  win32_monitor.c
+C:\Users\sarue\Desktop\Professional\FinalGame_RosibelUseda\FinalGame_RosibelUseda\Blit3Dv3\Blit3DBaseFiles\GLFW\win32_monitor.c(68,5): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\sarue\Desktop\Professional\FinalGame_RosibelUseda\FinalGame_RosibelUseda\Blit3Dv3\Blit3DBaseFiles\GLFW\win32_monitor.c(77,9): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  win32_time.c
+  win32_tls.c
+  win32_window.c
+  window.c
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 2646 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Blit3Dv3.vcxproj -> C:\Users\sarue\Desktop\Professional\FinalGame_RosibelUseda\FinalGame_RosibelUseda\x64\Release\KeySmasher.exe
